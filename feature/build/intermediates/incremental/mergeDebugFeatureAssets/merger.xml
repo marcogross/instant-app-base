@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/marco/AndroidStudioProjects/hello-java/feature/src/main/assets"/><source path="/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/shader_assets/debugFeature/compileDebugFeatureShaders/out"/></dataSet><dataSet config="debug"><source path="/Users/marco/AndroidStudioProjects/hello-java/feature/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b175a853c4a3180276019ffc0c2af64f/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b175a853c4a3180276019ffc0c2af64f/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c1fbeb17f749fec116cb415f1e2ab321/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b175a853c4a3180276019ffc0c2af64f/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b175a853c4a3180276019ffc0c2af64f/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b175a853c4a3180276019ffc0c2af64f/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c1fbeb17f749fec116cb415f1e2ab321/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c1fbeb17f749fec116cb415f1e2ab321/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c1fbeb17f749fec116cb415f1e2ab321/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/marco/AndroidStudioProjects/hello-java/feature/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/marco/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/c1fbeb17f749fec116cb415f1e2ab321/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
